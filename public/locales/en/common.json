@@ -1,6 +1,4 @@
 {
-  "home": {
-    "title": "Welcome to StudyPay 🎓",
-    "subtitle": "An educational platform to simplify your learning experience."
-  }
+  "homeTitle": "Welcome to StudyPay 🎓",
+  "homeDescription": "An educational platform to simplify your learning experience."
 }
