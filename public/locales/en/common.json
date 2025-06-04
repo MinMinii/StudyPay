@@ -1,6 +1,6 @@
 {
-  "home": "Home",
-  "about": "About",
-  "contact": "Contact",
-  "welcome": "Welcome to StudyPay"
+  "home": {
+    "title": "Welcome to StudyPay 🎓",
+    "subtitle": "An educational platform to simplify your learning experience."
+  }
 }
